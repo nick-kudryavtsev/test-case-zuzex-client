@@ -1,0 +1,17 @@
+.messenger form {
+    display: flex;
+}
+
+.messenger form input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.messenger form button {
+    margin-left: 10px;
+}
+
+.messenger form button:hover {
+    cursor: pointer;
+}
